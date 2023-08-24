@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.74d855f2.css",
-    "main.js": "/my-app/static/js/main.ebeed8bd.js",
-    "index.html": "/my-app/index.html",
-    "main.74d855f2.css.map": "/my-app/static/css/main.74d855f2.css.map",
-    "main.ebeed8bd.js.map": "/my-app/static/js/main.ebeed8bd.js.map"
+    "main.css": "/shopmate/static/css/main.74d855f2.css",
+    "main.js": "/shopmate/static/js/main.ebeed8bd.js",
+    "index.html": "/shopmate/index.html",
+    "main.74d855f2.css.map": "/shopmate/static/css/main.74d855f2.css.map",
+    "main.ebeed8bd.js.map": "/shopmate/static/js/main.ebeed8bd.js.map"
   },
   "entrypoints": [
     "static/css/main.74d855f2.css",
